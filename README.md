@@ -1,4 +1,4 @@
-Einsteinium integration/staging tree
+EinsteiniumClassic integration/staging tree
 ================================
 
 http://www.einsteinium.org
@@ -8,7 +8,7 @@ Copyright (c) 2011-2013 Litecoin Developers
 Copyright (c) 2014 Einsteinium Developers
 
 
-What is Einsteinium?
+What is Einsteinium Classic?
 ----------------
 
 Einsteinium is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
@@ -21,8 +21,6 @@ Einsteinium is a lite version of Bitcoin using scrypt as a proof-of-work algorit
 - Difficulty Re-targeting: per block (Kimoto Gravity Well)
 - RPC Port: 41879
 - P2P Port: 41878
-- Donation to the Einsteinium Charitable Fund (per block): 2%
-- Donation to to faucets, give-aways and marketing (per block): 0.5%
 
 For more information, as well as an immediately useable, binary version of
 the Einsteinium client sofware, see http://www.einsteinium.org.
